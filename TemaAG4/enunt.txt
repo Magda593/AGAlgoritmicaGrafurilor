@@ -1,0 +1,28 @@
+			Tema 4
+
+1. Sa se afiseze sortarea topologica a unui graf, daca acest lucru este posibil.
+
+a)	Implementarea parcurgerii in adancime - 1.5p
+b)	Verificare daca graful are circuite - 1.5p 
+c)	Afisare mesaj in cazul in care graful are circuite - 0.5p
+d)	Afisarea sortarii topologice intr-un fisier text - 0.5p
+e)	Desenarea grafului corespunzator sortarii topologice intr-o fereastra noua - 1p
+
+Exemplu:
+
+ 	 
+Graf initial					Sortarea topologica (graf)
+
+Sortarea topologica: 5, 6, 7, 0, 1, 3, 4, 2 
+
+2. Sa se implementeze algoritmul de găsire a rădăcinii unui graf orientat (daca graful este aciclic si qvasi-tare conex) si sa se afiseze radacina gasita 
+a)	Implementarea algoritmului -  2p
+b)	Plecand de la tema 1 sa se aplice acest algoritm pe un graf construit manual si sa se afiseze radacina gasita, daca aceasta exista. - 1p
+c)	Sa se deseneze arborescenta obtinuta prin pargurgerea grafului pornind din radacina
+
+Observatii:
+
+- se puncteaza doar algoritmul NERECURSIV pentru DFS
+- timp de lucru 2 saptamani
+
+
